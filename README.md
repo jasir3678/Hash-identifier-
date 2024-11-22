@@ -14,7 +14,7 @@ Download or clone this repository.
 Run the script from the command line, passing a hash value as an argument:
 bash
 Copy code
-python hash_identifier.py <hash_value>
+'''python ./hash_identifier.py <hash_value>'''
 Example:
 
 bash
