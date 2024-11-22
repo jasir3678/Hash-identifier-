@@ -27,7 +27,8 @@ python hash_identifier.py e99a18c428cb38d5f260853678922e03
 
 ## Output :
 ```
-Hash: Hash Types: MD5
+Hash:e99a18c428cb38d5f260853678922e03
+Hash Types: MD5
 ```
 
 
