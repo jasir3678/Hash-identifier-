@@ -17,7 +17,7 @@ This Python script helps identify the type of a given hash value by comparing it
 2. Run the script from the command line, passing a hash value as an argument:
 
 ```bash
-python hash_identifier.py <hash_value>
+python hash_identifier.py <hash_value>```
  
 Example
 python hash_identifier.py e99a18c428cb38d5f260853678922e03
