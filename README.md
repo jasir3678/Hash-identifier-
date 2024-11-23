@@ -13,22 +13,27 @@ This Python script helps identify the type of a given hash value by comparing it
 - No external libraries are required.
 
 ## Usage
-1. Download or clone this repository.
-2. Run the script from the command line, passing a hash value as an argument:
-
-```bash
-python hash_identifier.py <hash_value>
+1.Save this script to a file, e.g., hash_identifier.py..
+2. Make it executable:
+```
+chmod +x hash_identifier.py
+```
+3.Run it with a hash string as an argument:
+```
+./hash_identifier.py <hash>
 ```
  
 ## Example :
 ```
-python hash_identifier.py e99a18c428cb38d5f260853678922e03
+./hash_identifier.py d41d8cd98f00b204e9800998ecf8427e
+
 ```
 
 ## Output :
 ```
-Hash:e99a18c428cb38d5f260853678922e03
-Hash Types: MD5
+Hash: d41d8cd98f00b204e9800998ecf8427e
+Possible Types: MD5, NTLM, LM
+
 ```
 
 
