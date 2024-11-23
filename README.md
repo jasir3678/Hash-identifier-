@@ -13,7 +13,7 @@ This Python script helps identify the type of a given hash value by comparing it
 - No external libraries are required.
 
 ## Usage
-1.Save this script to a file, e.g., hash_identifier.py..
+1.Save this script to a file, e.g., hash_identifier.py..  
 2. Make it executable:
 ```
 chmod +x hash_identifier.py
